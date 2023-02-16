@@ -14,8 +14,6 @@ jarvis-basic -- platform basic
 
 # TODO
 
-#### 还未找到,作用未知
-    jarvis-parent-war 
 #### 确定结构和内容
     archives-backstage-log
     archives-qc-checker-core
