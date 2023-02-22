@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.jarvis.platform</groupId>
         <artifactId>jarvis-basic</artifactId>
-        <version>4.0.1-SNAPSHOT</version>
+        <version>1.0.0-SNAPSHOT</version>
     </parent>
 
     <artifactId>jarvis-dependencies</artifactId>
@@ -12,7 +12,7 @@
 
     <properties>
         <eureka-zone>http://archive-eureka:8761/eureka/</eureka-zone>
-        <jarvis.version>4.0.1-SNAPSHOT</jarvis.version>
+        <jarvis.version>1.0.0-SNAPSHOT</jarvis.version>
         <easyexcel.version>2.2.10</easyexcel.version>
         <tika.version>2.3.0</tika.version>
         <commons-code.version>1.15</commons-code.version>

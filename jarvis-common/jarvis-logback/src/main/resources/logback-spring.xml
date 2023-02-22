@@ -105,7 +105,7 @@
     </logger>
 
     <springProfile name="dev,test">
-        <logger name="com.gdda.archives" level="DEBUG" additivity="false">
+        <logger name="com.jarvis" level="DEBUG" additivity="false">
             <appender-ref ref="error"  />
             <appender-ref ref="console"  />
             <appender-ref ref="AsyncFileAppender" />
@@ -117,7 +117,7 @@
     </springProfile>
 
     <springProfile name="prod">
-        <logger name="com.gdda.archives" level="INFO" additivity="false">
+        <logger name="com.jarvis" level="INFO" additivity="false">
             <appender-ref ref="console"  />
             <appender-ref ref="error"  />
             <appender-ref ref="AsyncFileAppender" />
