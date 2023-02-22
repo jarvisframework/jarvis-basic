@@ -17,7 +17,7 @@ jarvis-basic
     ├── jarvis-logback -- 日志类库
     ├── jarvis-util -- 工具类库
 ├── jarvis-dependencies -- 依赖管理类库
-├── jarvis-parent -- 父依赖
+├── jarvis-parent -- 框架依赖管理
 ├── jarvis-parent-war --  war包父依赖
 
 ```
